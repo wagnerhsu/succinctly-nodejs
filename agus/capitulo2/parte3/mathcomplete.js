@@ -1,0 +1,21 @@
+var a, b;
+a = 2;
+b = 3.5;
+
+console.log("O resultado do valor absoluto é: " + Math.abs(a));
+console.log("O resultado do arco de coseno é: " + Math.acos(a));
+console.log("O resultado do arco do seno é: " + Math.asin(a));
+console.log("O resultado do arco de tangente é: " + Math.atan(a));
+console.log("O resultado do arco de tangente A/B é: " + Math.atan2(a,b));
+console.log("O resultado do inteiro proximo a A e nao menos do que A é: " + Math.ceil(a));
+console.log("O resultado do coseno é: " + Math.cos(a));
+console.log("O resultado do exponente é: " + Math.exp(a));
+console.log("O resultado do inteiro próximo a A é: " + Math.floor(a));
+console.log("O resultado do log base é: " + Math.log(a));
+console.log("O resultado do valor máximo de A e B: " + Math.max(a,b));
+console.log("O resultado do valor minimo de A e B: " + Math.min(a,b));
+console.log("O resultado do baseexpoente é: " + Math.pow(a,b));
+console.log("O valor aleatório é: " + Math.random());
+console.log("O resultado do seno é: " + Math.sin(a));
+console.log("O resultado da raiz quadrada é: " + Math.sqrt(a * b));
+console.log("O resultado da tangente é: " + Math.tan(a));
