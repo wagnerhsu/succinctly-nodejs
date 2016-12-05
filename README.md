@@ -5,8 +5,9 @@ Aplicações criadas através da leitura dos livros de Node.js Succinctly da edi
 __[Node.js Succinctly - Book](http://pepa.holla.cz/wp-content/uploads/2016/01/Nodejs_Succinctly.pdf)__.
  
 ### Conteúdo dos capítulos
-- __[Capítulo 1: Introdução, instalação e hello world](agus/capitulo1)__
-- __[Capítulo 2: Hello Node.js](agus/capitulo2)__
+- __[Capítulo 1: Introduction to Node.js](agus/capitulo1)__
+- __[Capítulo 2: Basic Node.js Programming](agus/capitulo2)__
+- __[Capítulo 3: Array](agus/capitulo3)__
 
 ---
 
