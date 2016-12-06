@@ -11,6 +11,7 @@ __[Node.js Succinctly - Book](http://pepa.holla.cz/wp-content/uploads/2016/01/No
 - __[Capítulo 4: JSON](agus/capitulo4)__
 - __[Capítulo 5: Functions](agus/capitulo5)__
 - __[Capítulo 6: String Operations](agus/capitulo6)__
+- __[Capítulo 7: Building Your Own Module](agus/capitulo7)__
 
 ---
 
