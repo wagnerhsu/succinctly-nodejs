@@ -9,6 +9,7 @@ __[Node.js Succinctly - Book](http://pepa.holla.cz/wp-content/uploads/2016/01/No
 - __[Capítulo 2: Basic Node.js Programming](agus/capitulo2)__
 - __[Capítulo 3: Array](agus/capitulo3)__
 - __[Capítulo 4: JSON](agus/capitulo4)__
+- __[Capítulo 5: Functions](agus/capitulo5)__
 
 ---
 
