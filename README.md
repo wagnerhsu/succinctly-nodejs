@@ -12,6 +12,7 @@ __[Node.js Succinctly - Book](http://pepa.holla.cz/wp-content/uploads/2016/01/No
 - __[Capítulo 5: Functions](agus/capitulo5)__
 - __[Capítulo 6: String Operations](agus/capitulo6)__
 - __[Capítulo 7: Building Your Own Module](agus/capitulo7)__
+- __[Capítulo 8: Error Handling and Logging](agus/capitulo8)__
 
 ---
 
