@@ -15,6 +15,7 @@ __[Node.js Succinctly - Book](http://pepa.holla.cz/wp-content/uploads/2016/01/No
 - __[Capítulo 8: Error Handling and Logging](agus/capitulo8)__
 - __[Capítulo 9: Events](agus/capitulo9)__
 - __[Capítulo 10: Web Applications](agus/capitulo10)__
+- __[Capítulo 11: Socket Programming](agus/capitulo11)__
 
 ---
 
